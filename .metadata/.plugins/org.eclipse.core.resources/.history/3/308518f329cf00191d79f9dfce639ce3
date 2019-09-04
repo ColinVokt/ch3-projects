@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package colinvokt_ch3;
+
+/**
+ * @author colin.vokt
+ *
+ */
+public class identifyYourself {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

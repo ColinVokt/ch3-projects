@@ -1,0 +1,10 @@
+package colinvokt_ch3;
+
+public class goodbye {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
